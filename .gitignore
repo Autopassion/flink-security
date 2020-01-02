@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+dependency-reduced-pom.xml
+flinkSecurity.iml
+in/
+out/
+target/
